@@ -1,5 +1,6 @@
 # engce301
 For ENGCE301 Class
+<<<<<<< HEAD
 
 ## Lab
 
@@ -7,3 +8,5 @@ For ENGCE301 Class
 - [x] Lab 2
 - [x] Lab 3
 - [ ] Lab 4
+=======
+>>>>>>> Initial commit
