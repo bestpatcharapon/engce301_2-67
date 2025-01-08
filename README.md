@@ -1,7 +1,7 @@
 # engce301
 For ENGCE301 Class
 
-## Lab
+## Lab ##
 
 - [x] Lab 1
 - [x] Lab 2
