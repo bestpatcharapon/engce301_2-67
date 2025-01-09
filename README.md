@@ -6,4 +6,4 @@ For ENGCE301 Class
 - [x] Lab 1
 - [x] Lab 2
 - [x] Lab 3
-- [ ] Lab 4
+- [x] Lab 4
