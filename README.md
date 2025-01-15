@@ -1,9 +1,6 @@
-# engce301
-For ENGCE301 Class
+# 🎓 ENGCE301 Class - Lab Progress
 
-## Lab ##
-
-- [x] Lab 1
-- [x] Lab 2
-- [x] Lab 3
-- [x] Lab 4
+## 🧪 **Lab 1** - Completed ✅  
+## 🧬 **Lab 2** - Completed ✅  
+## 🧑‍🔬 **Lab 3** - Completed ✅  
+## 🛠️ **Lab 4** - Completed ✅  
